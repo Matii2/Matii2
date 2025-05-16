@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">A passionate Full-Stack Developer from Poland</h3>
 
-- 🔭 I’m currently working on **GmMc.pl \ ForeverCode.pl \ SOON**
+- 🔭 I’m currently working on **Matix Studio**
 
 - 🌱 I’m currently learning **Java and much much more**
 
