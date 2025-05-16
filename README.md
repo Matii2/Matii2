@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">A passionate Full-Stack Developer from Poland</h3>
 
-- 🔭 I’m currently working on [GmMc.pl \ ForeverCode.pl \ SOON](www.gmmc.pl)
+- 🔭 I’m currently working on **GmMc.pl \ ForeverCode.pl \ SOON**
 
 - 🌱 I’m currently learning **Java and much much more**
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/https://www.youtube.com/@dark_matix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dark_matix" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
