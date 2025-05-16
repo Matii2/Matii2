@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">A passionate Full-Stack Developer from Poland</h3>
 
+- 🔭 I’m currently working on [GmMc.pl \ ForeverCode.pl \ SOON](www.gmmc.pl)
+
+- 🌱 I’m currently learning **Java and much much more**
+
+- 💬 Ask me about **websites**
+
+- 📫 How to reach me **prezesmateuszpl@gmail.com [temporary]**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
